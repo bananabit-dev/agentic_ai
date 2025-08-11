@@ -11,6 +11,7 @@ dependencies = [
     "ipykernel>=6.30.1",
     "ipython>=9.4.0",
     "langchain>=0.3.27",
+    "openai>=1.99.6",
     "pydantic>=2.11.7",
     "pypdf>=5.9.0",
     "requests>=2.32.4",
